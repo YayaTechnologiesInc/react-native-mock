@@ -108,7 +108,7 @@ ViewPropTypes:require('./propTypes/ViewPropTypes')};
 // See http://facebook.github.io/react/docs/addons.html
 var ReactNativeAddons={
 // LinkedStateMixin: require('react-addons-linked-state-mixin') deprecated,
-Perf:require('ReactPerf'),
+// Perf: require('ReactPerf'),
 // PureRenderMixin: require('react-addons-pure-render-mixin') deprecated,
 TestModule:require('./NativeModules/TestModule'),
 TestUtils:require('react-dom/test-utils'),
